@@ -37,7 +37,7 @@ def introduction():
     """
     )
 
-    st.markdown('''**Credit:** App built in `Python` + `Streamlit` by :red[**Akash Sharma** ] ''')
+    st.markdown('''**Credit:** App built in `Python` + `Streamlit` by :red[**Meghna Sharma** ] ''')
     st.write('---')
 
 
